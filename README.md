@@ -1,2 +1,2 @@
 # ERPnext_demo
- Démo du projet ERPnext
+Quelques bouts de code du projet ERPnext
